@@ -5,4 +5,7 @@ Additionally, I found this to be incredibly challenging as I can do everything t
 
 My code is based off of the coursework we were given, in class instruction, and troubleshooting with the Xpert Learning assistance. 
 All code is typed by me, but inspired by the class and others. 
+
+Edit as of 3-3-2025, Thank you for taking a second look at this! Uploaded is the corrected code for the challenge and I verified that it works. I moved up the next I loop, added ws.Activate, and added ws. to the color coding section to correct the code. 
+
 Thank you!
